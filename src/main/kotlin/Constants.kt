@@ -1,1 +1,1 @@
-val PATH_PREFIX = "src/main/kotlin"
+const val PATH_PREFIX = "src/main/kotlin"
